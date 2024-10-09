@@ -1,4 +1,4 @@
-<p align="left">About me</p>
+<h1 align="left">About me</h1>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">Techs</p>
+<h1 align="left">Techs</h1>
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">Stats</p>
+<h1 align="left">Stats</h1>
 
 ###
 
@@ -52,6 +52,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Trizottetess/Trizottetess/output/snake.svg" alt="Snake animation" />
 
