@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🤠 My name is Trizotte 🔗 I'm 19 years old<br>👾 Front-end Developer 🌌Back-end Developer <br>📚 I'm studying System Analysis and Development 📍 Studying at Positivo Campus Osório</p>
+<p align="left">🤠 My name is Trizotte 🔗 I'm 21 years old<br>👾 Front-end Developer 🌌Back-end Developer <br>📚 I'm studying System Analysis and Development 📍 Studying at Positivo Campus Osório</p>
 
 ###
 
